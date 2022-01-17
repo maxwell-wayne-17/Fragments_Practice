@@ -16,6 +16,6 @@ private const val ARG_PARAM2 = "param2"
  * Use the [FirstFragment.newInstance] factory method to
  * create an instance of this fragment.
  */
-class FirstFragment : Fragment(R.layout.fragment_first) {
-
+class SecondFragment : Fragment(R.layout.fragment_second) {
+    
 }
